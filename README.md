@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Android Development**
 
-- 💬 Ask me about **Android , kotlin**
+- 💬 Ask me about **Android, Kotlin, Jetpack Compose**
 
 - 📫 How to reach me **sujan75349@gmail.com**
 
